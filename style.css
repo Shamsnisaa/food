@@ -1,0 +1,156 @@
+.delicious {
+    display: inline-block;
+    color: black;
+    margin-left: 80px;
+    cursor: pointer;
+}
+
+.foods {
+    display: inline-block;
+    color: red;
+    cursor: pointer;
+}
+
+body {
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.firsta {
+    margin-left: 250px;
+}
+
+.firsta :hover {
+    text-decoration: underline solid red;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+    margin-left: 60px;
+}
+
+.firstbutton {
+    background-color: #C90011;
+    height: 40px;
+    width: 150px;
+    margin-left: 130px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+    margin-left: 60px;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+    margin-left: 60px;
+}
+
+a:hover {
+    text-decoration: none solid red;
+    text-decoration-color: red;
+    color: red;
+}
+
+a.clicked {
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+img {
+    background-image: url(./Hero.png);
+    background-size: cover;
+    display: inline;
+}
+
+.welcome-to {
+    margin-left: 100px;
+    margin-top: -370px;
+    color: white;
+    font-size: 30px;
+}
+
+.firstclass {
+    display: inline-block;
+    margin-top: -80px;
+    color: white;
+    font-size: 80px;
+    margin-left: 100px;
+}
+
+.secondclass {
+    margin-top: -80px;
+    margin-left: 100px;
+    color: red;
+    font-size: 80px;
+}
+
+.pb {
+    margin-left: 100px;
+    color: white;
+    margin-top: -50px;
+}
+
+.secondbutton {
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    margin-left: 100px;
+    color: white;
+}
+
+.thirdbutton {
+    background-color: transparent;
+    height: 40px;
+    width: 150px;
+    margin-left: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+.blacktransparrent {
+    height: 145px;
+    background-color: rgba(0, 0, 0, 0.9);
+    margin-top: 105px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.blacktransparrent p {
+    padding-left: 0px;
+    margin-top: 20px;
+    display: block;
+}
+
+.blacktransparrent p b {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -170px;
+    margin-left: -100px;
+    
+}
+
+.img {
+    border-radius: 50%;
+    border: 2px solid black;
+    display: inline;
+    margin-left: 250px;
+}
